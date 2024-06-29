@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="container">
       <button onClick={handleAddRecord}>Add Record</button>
-      <table id="characterTable">
+      <table id="tableData">
         <thead>
           <tr>
             <th>Name</th>
